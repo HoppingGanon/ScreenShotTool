@@ -1,0 +1,1 @@
+powershell -WindowStyle Hidden %~dp0\QuickScreenShot.ps1
